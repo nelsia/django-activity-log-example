@@ -1,0 +1,2 @@
+django-activity-log-sample
+===
